@@ -7,6 +7,7 @@ namespace TestBrendiGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Brendi!");
+            Console.WriteLine("Hello da Ajla!");
         }
     }
 }
